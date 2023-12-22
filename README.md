@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Maiko
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning programing logic
+- 💞️ I’m looking to collaborate on teams projects
+- 📫 How to reach me ewigemagie@outlook.com
